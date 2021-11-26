@@ -5,10 +5,9 @@ REST server
 * Express
 * MongoDb
 * Typescript
-* DDD Architecture
+* DDD
 
 Extras:
-* Domain Driven Development
 * nodemon
 * cors
 * DotEnv
